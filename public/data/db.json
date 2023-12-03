@@ -1,0 +1,145 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "street": "Kulas Light",
+      "suite": "Apt .556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874"
+    },
+    {
+      "id": 2,
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771"
+    },
+    {
+      "id": 3,
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "street": "Douglas Extension",
+      "suite": "Suite 847",
+      "city": "McKenziehaven",
+      "zipcode": "59590-4157"
+    },
+    {
+      "id": 4,
+      "username": "Karianne",
+      "email": "Julianne.OConner@kory.org",
+      "street": "Hoeger Mall",
+      "suite": "Apt. 692",
+      "city": "South Elvis",
+      "zipcode": "53919-4257"
+    },
+    {
+      "id": 5,
+      "username": "Kamren",
+      "email": "Lucio_Hettinger@annie.ca",
+      "street": "Skiles Walks",
+      "suite": "Suite 351",
+      "city": "Roscoeview",
+      "zipcode": "33263"
+    },
+    {
+      "id": 6,
+      "username": "Leopoldo_Corkery",
+      "email": "Karley_Dach@jasper.info",
+      "street": "Norberto Crossing",
+      "suite": "Apt. 950",
+      "city": "South Christy",
+      "zipcode": "23505-1337"
+    },
+    {
+      "id": 7,
+      "username": "Elwyn.Skiles",
+      "email": "Telly.Hoeger@billy.biz",
+      "street": "Rex Trail",
+      "suite": "Suite 280",
+      "city": "Howemouth",
+      "zipcode": "58804-1099"
+    },
+    {
+      "id": 8,
+      "username": "Maxime_Nienow",
+      "email": "Sherwood@rosamond.me",
+      "street": "Ellsworth Summit",
+      "suite": "Suite 729",
+      "city": "Aliyaview",
+      "zipcode": "45169"
+    },
+    {
+      "id": 9,
+      "username": "Delphine",
+      "email": "Chaim_McDermott@dana.io",
+      "street": "Dayna Park",
+      "suite": "Suite 449",
+      "city": "Bartholomebury",
+      "zipcode": "76495-3109"
+    },
+    {
+      "name": "Muhammed Faraan",
+      "username": "Faraan",
+      "email": "faraanshaik19@gmail.com",
+      "street": "Oxford Street",
+      "suite": "Suite 1007",
+      "city": "London",
+      "zipcode": "W1D 1BS",
+      "id": 10
+    },
+    {
+      "name": "Goku",
+      "username": "Kakarot",
+      "email": "kakarot@gmail.com",
+      "street": "Mount Paozu",
+      "suite": "Suite 007",
+      "city": "West City",
+      "zipcode": "018439",
+      "id": 11
+    },
+    {
+      "name": "Roger ",
+      "username": "Roger Federer",
+      "email": "roger@gmail.com",
+      "street": "Freie Straise",
+      "suite": "suite RF10",
+      "city": "Basel",
+      "zipcode": "40001",
+      "id": 12
+    },
+    {
+      "name": "Elon",
+      "username": "Elon",
+      "email": "elon@gmail.com",
+      "street": "LA Street",
+      "suite": "Suite 2354",
+      "city": "Los Angeles",
+      "zipcode": "647522",
+      "id": 13
+    },
+    {
+      "name": "Peter",
+      "username": "Peter",
+      "email": "peter@gmail.com",
+      "street": "Ingram Street",
+      "suite": "Suite 1473",
+      "city": "New York",
+      "zipcode": "SW1H91P",
+      "id": 14
+    },
+    {
+      "name": "Gohan",
+      "username": "Gohan",
+      "email": "gohan@gmail.com",
+      "street": "wexboro street",
+      "suite": "Suite 3245",
+      "city": "Japan",
+      "zipcode": "354744",
+      "id": 15
+    }
+  ]
+}
